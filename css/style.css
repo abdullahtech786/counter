@@ -1,0 +1,36 @@
+.counter{
+	width: 100vw;
+	height: 100vh;
+	background-color: #1c2832;
+	
+}
+ .col-md-6{
+	background-color: #000;
+	padding: 200px 50px;
+	border-radius: 10px;
+} 
+.counter h3{
+	font-size: 40px;
+	color: #DC3545;
+	font-weight: bold;
+	font-family: candara;
+	margin-bottom: 20px;
+}
+
+.btn-check:focus+.btn-danger, .btn-danger:focus {
+    
+    box-shadow: 0 0 0 0 rgba(225,83,97,0) !important;
+}
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+    
+    box-shadow: 0 0 0 0 rgba(225,83,97,0) !important;
+}
+.btn-check:focus+.btn-success, .btn-success:focus {
+    
+    box-shadow: 0 0 0 0 rgba(225,83,97,0) !important;
+}
+
+button{
+	margin-left: 10px;
+	margin-right: 10px;
+}
